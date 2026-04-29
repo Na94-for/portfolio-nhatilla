@@ -1,7 +1,7 @@
 import requests
 
 # Configurações
-API_KEY = "ad16f2125adcbe128b487d7b49179e23"
+API_KEY = "SUA_CHAVE_AQUI"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def consultar_clima(cidade):
@@ -29,4 +29,4 @@ def consultar_clima(cidade):
 
 # Pede o nome da cidade para o usuário
 cidade = input("Digite o nome da cidade: ")
-consultar_clima(cidade)
+consultar_clima(cidade) São Paulo
