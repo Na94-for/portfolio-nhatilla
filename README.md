@@ -23,7 +23,7 @@ O usuário digita o nome de uma cidade e o sistema retorna:
 - Consumo de APIs externas com Python
 - Requisições HTTP com a biblioteca Requests
 - Tratamento de respostas em formato JSON
-- Boas práticas de segurança — remoção de credenciais sensíveis antes do versionamento
+- Boas práticas de segurança: remoção de credenciais sensíveis antes do versionamento
 
 ## Como executar
 
